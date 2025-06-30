@@ -6,6 +6,10 @@
 
 <p align="center"><em>"Your financial world, simplified."</em></p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4417bf8b-58f6-4aa6-b911-3b90ca1e391c" width="400" style="border-radius: 60px;"  />
+</p>
+
 ---
 
 ### 📲 Available On
